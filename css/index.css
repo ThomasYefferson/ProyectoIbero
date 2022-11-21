@@ -1,0 +1,82 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.navbar{
+    background-color:#FF00FF ;
+    min-height: 100px;
+}
+.navbar-brand{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: crimson;
+}
+.navbar-brand:hover{
+    color: crimson;
+}
+#carouselExampleCaptions{
+    background-size: cover;
+    padding-bottom: -8px;
+    min-height: 229px;
+    top:-1px;
+
+}
+.carousel-inner{
+    padding-top: -2px;
+    
+}
+
+.slide{
+    margin-top: 1px;
+}
+.slide img{
+    height: 60vh;
+}
+.slide h2{
+    font-size: 66px;
+    color: rgb(230, 51, 170);
+    font-style: italic;
+}
+#fondo{
+    background-color: antiquewhite;
+    width: 100%;
+    display: inline-grid;
+    margin-top: px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.content-center h1{
+    width: 90%;
+    justify-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    margin: 10%;
+       
+}
+.content-center p{
+    width: 75%;
+    
+}
+#portafolio-container{
+    position: relative;
+    overflow: hidden;
+    margin: 2px 0;
+    border-radius: 2px;
+
+}
+#footer-container{
+    min-height: 100px;
+}
+
+
+
+
