@@ -1,0 +1,19 @@
+body{
+    background: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container-calculator {
+    width: 500px;
+    border: solid 2px black;
+    padding: 40px;
+    margin-left: calc();
+    margin-left: calc(50% - 250px);
+    margin-top: 10%;
+    border-radius: 24px;
+    background: cornsilk;
+}
+.mirespuesta{
+    border: solid 2px #ebebed;
+    width: 413px;
+    margin-top: 10px;
+}
